@@ -14,10 +14,10 @@ This document will outline the requirements for this project.
 
 ### School Information
 - Detailed view for each school when a user clicks on them.
-- Required data includes the school's name, location/address, website, description, and logo. Other information such as a school photo or degree information is optional.
-- Display visual logos or campus images for schools.
+- Required data includes the school's name, location/address, website, description, and logo. 
+- Display campus images for schools (optional).
 - Provide an overview of each school.
-- List degrees offered by each school.
+
 
 ### Data Sources
 - Pull data from various sources using ChatGPT.
