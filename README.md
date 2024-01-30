@@ -10,3 +10,6 @@ Niecia -Team Manager and Data Modeler
 Cobi - Client Liason and Data Analyzer 
 
 Nathaniel - Visualizer and Project Documentation
+
+## Notebook
+<https://colab.research.google.com/drive/1g_mjqjC1Nx2u5h3dB9Y6kTNLTih8utay#scrollTo=hyI713epbeNe>
