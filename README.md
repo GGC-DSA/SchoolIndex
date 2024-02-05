@@ -7,7 +7,7 @@ The objective of this project is to develop a comprehensive database encompassin
 ## Spring 2024 Team
 Niecia -Team Manager and Data Modeler 
 
-![IMG_8548](https://github.com/GGC-DSA/SchoolIndex/assets/125173695/08cd81dd-8aef-4820-ba9d-84f019c77c90)
+![Photo](https://github.com/GGC-DSA/SchoolIndex/assets/125173695/2304a624-f74a-48bc-a0e5-099377ec9689)
 
 
 
