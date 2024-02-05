@@ -6,7 +6,7 @@ The objective of this project is to develop a comprehensive database encompassin
 
 ## Spring 2024 Team
 Niecia -Team Manager and Data Modeler 
-
+<https://ibb.co/rZRYjx9>
 Cobi - Client Liason and Data Analyzer 
 
 Nathaniel - Visualizer and Project Documentation
