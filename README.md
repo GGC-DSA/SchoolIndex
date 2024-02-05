@@ -7,7 +7,8 @@ The objective of this project is to develop a comprehensive database encompassin
 ## Spring 2024 Team
 Niecia -Team Manager and Data Modeler 
 
-[alt text](https://ibb.co/rZRYjx9)
+![IMG_8548](https://github.com/GGC-DSA/SchoolIndex/assets/125173695/08cd81dd-8aef-4820-ba9d-84f019c77c90)
+
 
 
 Cobi - Client Liason and Data Analyzer 
