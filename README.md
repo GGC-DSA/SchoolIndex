@@ -14,6 +14,8 @@ Niecia -Team Manager and Data Modeler
 Cobi - Client Liason and Data Analyzer 
 
 Nathaniel - Visualizer and Project Documentation
+![IMG_0053](https://github.com/GGC-DSA/SchoolIndex/assets/144246936/7747f168-9c7f-452c-a961-3c237f644eef)
+
 
 ## Notebook
 <https://colab.research.google.com/drive/1g_mjqjC1Nx2u5h3dB9Y6kTNLTih8utay#scrollTo=hyI713epbeNe>
