@@ -4,7 +4,7 @@ Develop School Index for Studypool
 ## Description 
 This capstone project aims to develop a comprehensive database of colleges, universities, and online schools in the United States tailored to the needs of students conducting research on potential educational institutions. The data will be presented in the form of a website for the company StudyPool. The website will serve as a centralized resource providing key information for each school such as the school’s location, website, logo, and picture. By organizing and presenting this information in a user-friendly manner, the website will empower students to make informed decisions about their academic pursuits. We will utilize web scraping for the data collection process to make the database easily scalable. Through the implementation of search and filtering functionalities, users will be able to efficiently explore and compare different schools based on their specific criteria. Ultimately, this project seeks to enhance the accessibility and transparency of information about educational institutions facilitating the college search process for students across the U.S.
 
-## Project Demo Link 
+## Project Demo 
 <https://youtu.be/PRgV5qmOW-o?si=UOPrtdF9YKvSRovf>
 ## Project Website 
 
