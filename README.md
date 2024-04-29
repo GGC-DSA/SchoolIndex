@@ -1,4 +1,4 @@
-# SchoolIndex
+# School Index
 Develop School Index for Studypool
 
 ## Description 
