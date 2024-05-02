@@ -45,6 +45,8 @@ Our client is StudyPool. Studypool is an online marketplace where students can p
 
 ## Awards
 - Received honorable mention (4th place) at the STaRS event.
+- Our team is the rightmost team on the following image.
+
 ![image](https://github.com/GGC-DSA/SchoolIndex/assets/125174228/3e74122a-7fee-4c76-a876-45934509e0fc)
 
 ## Technologies
