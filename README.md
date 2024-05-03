@@ -10,8 +10,6 @@ This capstone project aims to develop a comprehensive database of colleges, univ
 ## Project Website 
 <https://ggc-dsa.github.io/SchoolIndex/> 
 
-## Final notebook
-
 ## Poster 
 <https://app.marq.com/invitations/accept/inv_07d72d23-d092-4894-9b69-1ba5bcebe784>
 
@@ -37,7 +35,8 @@ Nathaniel - Visualizer and Project Documentation
 Our client is StudyPool. Studypool is an online marketplace where students can post academic questions or assignments and receive help from tutors or educators. It provides a platform for students to get personalized assistance and support for their academic needs. This project was taking care with Studypool's COO Helen Merhout and full stack engineer Benardo Avancena.
 
 ## Notebook
-<https://colab.research.google.com/drive/1g_mjqjC1Nx2u5h3dB9Y6kTNLTih8utay#scrollTo=hyI713epbeNe>
+File: 
+Link: <https://colab.research.google.com/drive/1g_mjqjC1Nx2u5h3dB9Y6kTNLTih8utay#scrollTo=hyI713epbeNe>
 
 ## Outreach Activities
 - Presented at the STaRS event on April 8th, 2024.
@@ -78,14 +77,16 @@ The code utilizes the SerpApi library to perform an image search for "colleges i
 
 ### Data Analysis and Visualizations
 All of the data analysis operations were done in the Colab notebook. The [cleanDataset](https://github.com/GGC-DSA/SchoolIndex/blob/main/code/Data%20Files/cleanDataset.csv) file is the filtered data set that only includes the 100 colleges in Georgia that we used throughout the late stages of the project. The [us-colleges-and-universities](https://github.com/GGC-DSA/SchoolIndex/blob/main/code/Data%20Files/us-colleges-and-universities.csv) file is the entire data set with all of the colleges and all of the columns removed from the clean data set.
-The visualizations were made in Tableau.
+The [visualizations](https://github.com/GGC-DSA/SchoolIndex/tree/main/docs-Spr2024/Tableau%20Visualizations) were made in Tableau. The beta visualization was made using the cleanDataset while the main visualization was made using the [trimmedDataset](https://github.com/GGC-DSA/SchoolIndex/blob/main/code/Data%20Files/trimmedDataset.csv). In the Tableau files themselves, the beta visualization's data source is titled "cleanDataset.csv" while the main visualization's data source is titled "fullDataset.csv". These files may need to be renamed in order for the Tableau visualizations to work.
+
+### SQL Database
 
 ## Working Features
 - Implemented a web scraper to extract the schools’ logos and summaries 
 - Developed a data visualization showing schools in the data set on a map of Georgia with a color gradient showing how many total students are enrolled in the data set. 
 - Developed a MySQL database to connect with the website. 
 - Added a primary key and two unique constraints to columns in the MySQL database.
-- 
+  
 ## Data Sets
 <https://www.kaggle.com/datasets/joebeachcapital/us-colleges-and-universities>
 
