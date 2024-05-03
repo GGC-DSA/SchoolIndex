@@ -70,10 +70,10 @@ Our client is StudyPool. Studypool is an online marketplace where students can p
 - CSS 
 
 ## Project Setup and Usage
-# Extraction of schools’ summaries  
+### Extraction of schools’ summaries  
 The code uses the Wikipedia library to access Wikipedia's vast repository of articles and retrieve summaries for a list of schools. The Wikipedia library acts as an interface to interact with Wikipedia's content programmatically, providing functions to access article text, summaries, images, and more. To use this code, you need to ensure that you have the necessary libraries installed, including csv and Wikipedia. Prepare a CSV file containing a list of school names, ensuring that it is formatted correctly and named "GA_College_Name.csv". Then, simply run the script. It will read the CSV file, iterate through each school name, retrieve its summary from Wikipedia using the `get_school_summary` function, and store the summaries in a new CSV file named "school_summaries.csv". Once the script finishes execution, you can find the collected summaries saved in the output CSV file. With this script, you can efficiently gather comprehensive summaries of schools from Wikipedia. 
 
-#Extraction of schools’ logos 
+### Extraction of schools’ logos 
 The code utilizes the SerpApi library to perform an image search for "colleges in Georgia logos" on Google Images. It retrieves image results using pagination to ensure comprehensive coverage of the search.  To use the script, ensure that you have the necessary libraries installed, including csv,  serpapi, and dotenv. Set up a .env file containing your SerpApi key. Then, run the script, and it will automatically perform the image search, retrieve results, and save them into the specified CSV file.  
 ## Working Features
 - Implemented a web scraper to extract the schools’ logos and summaries 
