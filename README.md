@@ -75,13 +75,20 @@ The code uses the Wikipedia library to access Wikipedia's vast repository of art
 
 ### Extraction of schools’ logos 
 The code utilizes the SerpApi library to perform an image search for "colleges in Georgia logos" on Google Images. It retrieves image results using pagination to ensure comprehensive coverage of the search.  To use the script, ensure that you have the necessary libraries installed, including csv,  serpapi, and dotenv. Set up a .env file containing your SerpApi key. Then, run the script, and it will automatically perform the image search, retrieve results, and save them into the specified CSV file.  
+
+### Data Analysis and Visualizations
+All of the data analysis operations were done in the Colab notebook. The [cleanDataset](https://github.com/GGC-DSA/SchoolIndex/blob/main/code/Data%20Files/cleanDataset.csv) file is the filtered data set that only includes the 100 colleges in Georgia that we used throughout the late stages of the project. The [us-colleges-and-universities](https://github.com/GGC-DSA/SchoolIndex/blob/main/code/Data%20Files/us-colleges-and-universities.csv) file is the entire data set with all of the colleges and all of the columns removed from the clean data set.
+The visualizations were made in Tableau.
+
 ## Working Features
 - Implemented a web scraper to extract the schools’ logos and summaries 
 - Developed a data visualization showing schools in the data set on a map of Georgia with a color gradient showing how many total students are enrolled in the data set. 
 - Developed a MySQL database to connect with the website. 
-- Added a primary key and two unique constraints to columns in the MySQL database. 
+- Added a primary key and two unique constraints to columns in the MySQL database.
+- 
 ## Data Sets
 <https://www.kaggle.com/datasets/joebeachcapital/us-colleges-and-universities>
+
 ## Data Analysis Methods
 
 ## Data Analysis Results
