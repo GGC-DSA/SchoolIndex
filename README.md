@@ -45,7 +45,7 @@ Our client is StudyPool. Studypool is an online marketplace where students can p
 
 ## Awards
 - Received honorable mention (4th place) at the STaRS event.
-- Our team is the rightmost team on the following image.
+- Our team is the rightmost team in the following image.
 
 ![image](https://github.com/GGC-DSA/SchoolIndex/assets/125174228/3e74122a-7fee-4c76-a876-45934509e0fc)
 
@@ -72,9 +72,12 @@ Our client is StudyPool. Studypool is an online marketplace where students can p
 ## Project Setup and Usage
 
 ## Working Features
-
+- Implemented a web scraper to extract the schools’ logos and summaries 
+- Developed a data visualization showing schools in the data set on a map of Georgia with a color gradient showing how many total students are enrolled in the data set. 
+- Developed a MySQL database to connect with the website. 
+- Added a primary key and two unique constraints to columns in the MySQL database. 
 ## Data Sets
-
+<https://www.kaggle.com/datasets/joebeachcapital/us-colleges-and-universities>
 ## Data Analysis Methods
 
 ## Data Analysis Results
