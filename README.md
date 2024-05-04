@@ -14,7 +14,7 @@ This capstone project aims to develop a comprehensive database of colleges, univ
 <https://app.marq.com/invitations/accept/inv_07d72d23-d092-4894-9b69-1ba5bcebe784>
 
 ## Final Report
-
+<https://github.com/GGC-DSA/SchoolIndex/blob/main/docs-Spr2024/Final%20Report.docx>
 
 ## Spring 2024 Team
 Niecia - Team Manager and Data Modeler 
@@ -35,7 +35,8 @@ Nathaniel - Visualizer and Project Documentation
 Our client is StudyPool. Studypool is an online marketplace where students can post academic questions or assignments and receive help from tutors or educators. It provides a platform for students to get personalized assistance and support for their academic needs. This project was taking care with Studypool's COO Helen Merhout and full stack engineer Benardo Avancena.
 
 ## Notebook
-File: 
+File: <https://github.com/GGC-DSA/SchoolIndex/blob/main/code/Final%20Notebook.ipynb>
+
 Link: <https://colab.research.google.com/drive/1g_mjqjC1Nx2u5h3dB9Y6kTNLTih8utay#scrollTo=hyI713epbeNe>
 
 ## Outreach Activities
@@ -77,6 +78,7 @@ The code utilizes the SerpApi library to perform an image search for "colleges i
 
 ### Data Analysis and Visualizations
 All of the data analysis operations were done in the Colab notebook. The [cleanDataset](https://github.com/GGC-DSA/SchoolIndex/blob/main/code/Data%20Files/cleanDataset.csv) file is the filtered data set that only includes the 100 colleges in Georgia that we used throughout the late stages of the project. The [us-colleges-and-universities](https://github.com/GGC-DSA/SchoolIndex/blob/main/code/Data%20Files/us-colleges-and-universities.csv) file is the entire data set with all of the colleges and all of the columns removed from the clean data set.
+
 The [visualizations](https://github.com/GGC-DSA/SchoolIndex/tree/main/docs-Spr2024/Tableau%20Visualizations) were made in Tableau. The beta visualization was made using the cleanDataset while the main visualization was made using the [trimmedDataset](https://github.com/GGC-DSA/SchoolIndex/blob/main/code/Data%20Files/trimmedDataset.csv). In the Tableau files themselves, the beta visualization's data source is titled "cleanDataset.csv" while the main visualization's data source is titled "fullDataset.csv". These files may need to be renamed in order for the Tableau visualizations to work.
 
 ### SQL Database
